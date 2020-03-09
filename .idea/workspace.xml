@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="af15acd9-7a9b-4d8b-9df0-949715cba4f2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YhQlN1BaONTiTscOvlqp0hl406" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Game" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stoot.Game" />
+      <module name="FlyFight" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Stoot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Game" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af15acd9-7a9b-4d8b-9df0-949715cba4f2" name="Default Changelist" comment="" />
+      <created>1583392495852</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583392495852</updated>
+      <workItem from="1583392498635" duration="10137000" />
+      <workItem from="1583456267615" duration="759000" />
+      <workItem from="1583458016183" duration="155000" />
+      <workItem from="1583481976818" duration="14283000" />
+      <workItem from="1583559586444" duration="1008000" />
+      <workItem from="1583572057671" duration="11485000" />
+      <workItem from="1583584151548" duration="5547000" />
+      <workItem from="1583676003222" duration="3803000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="726" y="75" key="#com.intellij.ide.util.MemberChooser" timestamp="1583583324081">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="726" y="75" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1583583324081" />
+    <state x="463" y="139" key="FileChooserDialogImpl" timestamp="1583417828699">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="463" y="139" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1583417828699" />
+    <state width="1323" height="115" key="GridCell.Tab.0.bottom" timestamp="1583679819216">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="115" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1583679819216" />
+    <state width="1323" height="115" key="GridCell.Tab.0.center" timestamp="1583679819216">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="115" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1583679819216" />
+    <state width="1323" height="115" key="GridCell.Tab.0.left" timestamp="1583679819216">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="115" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1583679819216" />
+    <state width="1323" height="115" key="GridCell.Tab.0.right" timestamp="1583679819216">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="115" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1583679819216" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1583677993201">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1583677993201" />
+  </component>
+</project>
